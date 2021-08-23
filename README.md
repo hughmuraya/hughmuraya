@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hughmuraya
-- 👀 I’m interested in Android Development and cars
+- 👀 I’m interested in Android development, startups and cars
 - 🌱 I’m currently learning Kotlin and Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hughmuraya@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hughmuraya
 - 👀 I’m interested in Android development, startups, F1 and cars
-- 🌱 I’m currently learning Kotlin and Python
+- 🌱 I’m currently learning Software Development and Data Science 
 - 📫 How to reach me hughmuraya@gmail.com
 - 📱 Some of the applications I have developed are https://bit.ly/mnestgo , https://bit.ly/pSurveyapp ,https://bit.ly/nishauri
 
